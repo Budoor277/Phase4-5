@@ -9,7 +9,7 @@ Shaikha Alsereidi
 
 Phase 4
 
-- Section 3 — System Architecture**
+- Section 3 — System Architecture
   - 3.1 Architecture Decision
   - 3.2 Architecture View
   - 3.3 Responsibilities and Communication
