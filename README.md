@@ -14,13 +14,13 @@ Phase 4
   - 3.2 Architecture View
   - 3.3 Responsibilities and Communication
   - 3.4 Traditional and AI-Assisted Functions
-- Section 4 — AI-Service Integration Design**
+- Section 4 — AI-Service Integration Design
   - 4.1 Asset Classification
   - 4.2 Semantic Matching
   - 4.3 Ranking
   - 4.4 Sustainable-Action Recommendations
   - 4.5 LLM Assistant and AI-Generated Report Summaries
-- UI mockups**
+- UI mockup
   - 7.3 Recommendation Review
   - 7.7 Operational/Sustainability Reports and AI Summaries
   - 7.8 Conversational Assistant
